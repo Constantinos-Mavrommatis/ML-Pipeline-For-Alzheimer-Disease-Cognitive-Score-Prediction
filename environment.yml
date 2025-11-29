@@ -1,0 +1,12 @@
+name: ML-Pipeline-For-Alzheimer-Disease-Cognitive-Score-Prediction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - jupyterlab
